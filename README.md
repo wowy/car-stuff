@@ -1,2 +1,2 @@
 # aim-configs
-Various AiM custom configurations (CAN, sensors, and devices)
+Various AiM & Haltech custom configurations (CAN, sensors, and devices)
